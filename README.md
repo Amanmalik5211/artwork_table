@@ -34,8 +34,8 @@ This project demonstrates a **PrimeReact DataTable** with server-side pagination
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/prime-react-datatable.git
-   cd prime-react-datatable
+   git clone https://github.com/Amanmalik5211/artwork_table.git
+   cd artwork_table
    ```
 
 2. Install dependencies:

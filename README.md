@@ -1,6 +1,6 @@
 # PrimeReact DataTable with Server-Side Pagination and Custom Header
 
-This project demonstrates a **PrimeReact DataTable** with server-side pagination, custom header functionality, and dynamic row selection. The data is fetched from the [Art Institute of Chicago API](https://api.artic.edu/).
+This project demonstrates a **PrimeReact DataTable** with server-side pagination, custom header functionality, and dynamic row selection. The data is fetched from the https://api.artic.edu/api/v1/artworks?page=1
 
 ---
 
@@ -27,8 +27,7 @@ This project demonstrates a **PrimeReact DataTable** with server-side pagination
 
 ### Prerequisites
 
-- **Node.js** (>= v14.x)
-- **npm** or **yarn**
+- **npm** 
 
 ### Installation
 

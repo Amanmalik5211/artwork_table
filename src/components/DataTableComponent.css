@@ -1,0 +1,77 @@
+.table-container {
+    width: 91%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table-title {
+    font-size: 2.5rem;
+    font-weight: 700; 
+    color: #3B82F6;
+    text-align: center; 
+    margin-bottom: 30px; 
+    text-shadow: 3px 4px 5px rgba(1, 1, 1, 0.2); 
+  }
+  
+  
+  .data-table-container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+  }
+  
+  
+  .selected-artworks-container {
+    margin-top: 20px;
+    padding: 24px;
+    background-color: #d6dbdf;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+  }
+  
+  
+  .selected-artworks-heading {
+    font-size: 2rem;
+    background-color: #64748B;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 16px;
+    padding-left: 32rem;
+  }
+  
+  
+  .selected-artwork-item {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+    margin-top: 0.5rem;
+  }
+  
+  
+  .selected-artwork-bullet {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #3B82F6;
+    margin-right: 16px;
+  }
+  
+  
+  .selected-artwork-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #4B5563;
+  }
+  
